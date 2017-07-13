@@ -1,0 +1,132 @@
+
+/* ==========================================================================
+   Base styles:
+   ========================================================================== */
+/* Fix to include padding and border in the total width for each element */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Karla', sans-serif;
+	font-weight: 400;
+  border: 0px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  font-family: 'Lobster Two', cursive;
+  color: #ff4d4d;
+  font-weight: bold;
+  font-size: 20px;
+  font-style: italic;
+}
+
+nav {
+  padding: 40px 0px 40px 0px;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  background-color: white;
+}
+
+header {
+  background-image: url(../img/kimberly_walford_black_and_white.jpg);
+  background-size: cover;
+  height: 650px;
+  margin: 0px;
+  display: flex;
+	justify-content: center;
+  flex-direction: column;
+}
+
+header h2 {
+  font-size: 25px;
+  color: #ff4d4d;
+  padding-top: 140px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+h1 {
+  font-size: 70px;
+  text-transform: uppercase;
+  color: #ff4d4d;
+  margin-top: 0px;
+  padding-top: 80px;
+  letter-spacing: 12px;
+}
+
+.text-center {
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 40px;
+  font-weight: bold;
+  /*color: #ff4d4d;*/
+  letter-spacing: 10px;
+  color: white;
+  margin: 10px 0px;
+}
+
+h3 {
+  font-size: 25px;
+  color: #ff4d4d;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  margin: 0px;
+  background-color: white;
+}
+
+p {
+  font-size: 15px;
+}
+
+/* Fix for responsive images */
+img {
+  max-width: 100%;
+  padding-top: 20px;
+}
+
+.gallery {
+  display: flex;
+  align-items: center;
+}
+
+.gallery article {
+  padding: 10px;
+  width: 33%;
+}
+
+.gallery img {
+  padding: 10px 0px;
+}
+
+#mechanics h2 {
+  color: white;
+  background-color: #ff4d4d;
+}
+
+#athletes h2 {
+  color: white;
+  background-color: #ff4d4d;
+}
+
+#competing h2 {
+  color: white;
+  background-color: #ff4d4d;
+}
+
+#resources h2 {
+  color: white;
+  background-color: #ff4d4d;
+}
