@@ -204,3 +204,167 @@ input {
 #athletes {
   padding: 65px 0px;
 }
+
+.bonica {
+  background-image: url("../img/bonica_black_and_white.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 225px;
+  margin-bottom: 20px;
+  margin-left: 8px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+
+.bonica_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 225px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 70px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
+
+.jen {
+  background-image: url("../img/jen_thompson_black_and_white.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 250px;
+  margin-left: 8px;
+  margin-bottom: 30px;
+}
+
+.jen_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 250px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 80px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
+
+.katie {
+  background-image: url("../img/katie_anne_black_and_white.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 225px;
+  margin-left: 8px;
+}
+
+.katie_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 225px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 60px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
+
+.paige {
+  background-image: url("../img/paige_black_and_white_2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 555px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.paige_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 555px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 210px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
+
+.kimberly {
+  background-image: url("../img/kimberly_walford_black_and_white_3.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 300px;
+  margin-left: 5px;
+  margin-top: 30px;
+  margin-right: 5px;
+}
+
+.kimberly_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 300px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 80px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
+
+.liz {
+  background-image: url("../img/liz_black_and_white.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 225px;
+  margin-left: 5px;
+  margin-bottom: 8px;
+}
+
+.liz_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 225px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 70px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
+
+.marisa {
+  background-image: url(../img/marisa_inda_back_and_white.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 300px;
+  margin-left: 5px;
+  margin-bottom: 8px;
+  margin-top: 30px;
+}
+
+.marisa_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 300px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 80px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
+
+.meg {
+  background-image: url("../img/meg_squats_black_and_white.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 200px;
+  margin-left: 5px;
+  margin-bottom: 8px;
+  margin-top: 30px;
+}
+
+.meg_text {
+  background-color: rgba(255, 77, 77, 0.5);
+  min-height: 200px;
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  padding-top: 50px;
+  font-size: 30px;
+  letter-spacing: 1.5px;
+}
