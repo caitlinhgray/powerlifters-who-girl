@@ -78,3 +78,11 @@ $(".meg").on("mouseover", function(){
 $(".meg").on("mouseout", function(){
   $(".meg_text").hide();
 });
+
+$('.nav-link').on('click', function() {
+    var page = $(this).attr('href');
+
+    $('html, body').animate({
+        scrollTop: $(page).offset().top
+    }, 1000);
+});

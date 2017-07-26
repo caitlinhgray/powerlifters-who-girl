@@ -458,3 +458,20 @@ input {
 .meg_text p {
   font-size: 25px;
 }
+
+.iron img {
+  max-height: 500px;
+  max-width: 250px;
+}
+
+#resources a {
+  font-family: 'Karla', sans-serif;
+  color: #ff4d4d;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+.gwpl {
+  display: block;
+  align-items:
+}
