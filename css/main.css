@@ -36,6 +36,7 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
+  transition: all 3s;
 }
 
 header {
@@ -149,6 +150,63 @@ input {
   text-align: center;
 }
 
+.bonica_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.jen_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.katie_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.paige_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 27px;
+}
+
+.kimberly_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.liz_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.marisa_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
+.meg_text a {
+  color: black;
+  font-family: 'Karla', sans-serif;
+  font-style: normal;
+  text-transform: uppercase;
+}
+
 .gallery {
   display: flex;
   align-items: center;
@@ -222,9 +280,13 @@ input {
   min-height: 225px;
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  padding-top: 70px;
+  padding-top: 50px;
   font-size: 30px;
   letter-spacing: 1.5px;
+}
+
+.bonica_text p {
+  font-size: 25px;
 }
 
 .jen {
@@ -242,9 +304,13 @@ input {
   min-height: 250px;
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  padding-top: 80px;
+  padding-top: 50px;
   font-size: 30px;
   letter-spacing: 1.5px;
+}
+
+.jen_text p {
+  font-size: 25px;
 }
 
 .katie {
@@ -261,9 +327,13 @@ input {
   min-height: 225px;
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  padding-top: 60px;
+  padding-top: 35px;
   font-size: 30px;
   letter-spacing: 1.5px;
+}
+
+.katie_text p {
+  font-size: 25px;
 }
 
 .paige {
@@ -286,6 +356,10 @@ input {
   letter-spacing: 1.5px;
 }
 
+.paige_text p {
+  font-size: 25px;
+}
+
 .kimberly {
   background-image: url("../img/kimberly_walford_black_and_white_3.jpg");
   background-size: cover;
@@ -302,9 +376,13 @@ input {
   min-height: 300px;
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  padding-top: 80px;
+  padding-top: 70px;
   font-size: 30px;
   letter-spacing: 1.5px;
+}
+
+.kimberly_text p {
+  font-size: 25px;
 }
 
 .liz {
@@ -322,9 +400,13 @@ input {
   min-height: 225px;
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  padding-top: 70px;
+  padding-top: 40px;
   font-size: 30px;
   letter-spacing: 1.5px;
+}
+
+.liz_text p {
+  font-size: 25px;
 }
 
 .marisa {
@@ -343,9 +425,13 @@ input {
   min-height: 300px;
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  padding-top: 80px;
+  padding-top: 65px;
   font-size: 30px;
   letter-spacing: 1.5px;
+}
+
+.marisa_text p {
+  font-size: 25px;
 }
 
 .meg {
@@ -364,7 +450,11 @@ input {
   min-height: 200px;
   font-family: 'Lobster Two', cursive;
   font-style: italic;
-  padding-top: 50px;
+  padding-top: 30px;
   font-size: 30px;
   letter-spacing: 1.5px;
+}
+
+.meg_text p {
+  font-size: 25px;
 }
